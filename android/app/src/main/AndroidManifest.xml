@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="shahriar.rifat.xylophone2">
    <application
-        android:label="xylophone2"
+        android:label="Some Game Sounds"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
